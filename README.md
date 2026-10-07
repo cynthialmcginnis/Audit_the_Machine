@@ -4,7 +4,7 @@ An interactive exercise in checking AI language analysis against human judgment.
 
 You work the message desk at a fictional family clinic. Thirty patient messages came in overnight. You score each one for urgency, from 0 to 100. Then a GenAI tool scores the same 30 on the same scale, and you find out who got what wrong.
 
-**Try it:** https://YOUR-USERNAME.github.io/audit-the-machine/
+**Try it:** https://cynthialmcginnis.github.io/Audit_the_Machine/
 
 ## How it works
 
